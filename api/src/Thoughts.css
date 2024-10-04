@@ -1,0 +1,30 @@
+.though {
+    width: 40%;
+    height: 22vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8ebeb;
+    border-radius: 15px;
+    flex-direction: column;
+    gap: 20px;
+}
+.though h1{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    text-align: center;
+    
+}
+.though button{
+    width:  150px;
+    height: 35px;
+    color: black;
+   font-size: 15px;
+   font-weight: 700;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #e4fce7;
+    border:1px solid black;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3)
+}
